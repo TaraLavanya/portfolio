@@ -15,5 +15,4 @@ vite.config.ts.timestamp-*
 .index.test.js
 .prettierignore
 .prettierrc
-.jsconfig.json
 /.tests
