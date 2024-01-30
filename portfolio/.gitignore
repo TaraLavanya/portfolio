@@ -9,3 +9,11 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+.eslintignore
+.eslintrc.cjs
+.app.d.ts
+.index.test.js
+.prettierignore
+.prettierrc
+.jsconfig.json
+/.tests
